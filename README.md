@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LucianU a.k.a @elbear in different online communities
 - 👀 I’m interested in:
-     - making software development more accessible 
-     - building and maintaining robust systems
-- 🌱 I’m currently focusing on making Infrastructure Automation easier with Nix and NixOS
+     - Nix and NixOS
+     - making better tooling with neovim and tree-sitter
+     - understanding software correctness tools like Alloy and TLA+
 - 📫 How to reach me: https://elbear.com
 
 <!---
