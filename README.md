@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucianU a.k.a @elbear in different online communities
 - 👀 I’m interested in:
-     - Nix and NixOS
+     - system languages like Zig and Nim      
      - making better tooling with neovim and tree-sitter
      - understanding software correctness tools like Alloy and TLA+
 - 📫 How to reach me: https://elbear.com
